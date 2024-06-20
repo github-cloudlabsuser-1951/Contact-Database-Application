@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "yourWebAppNameHere"
+      "value": "Contact Database Application"
     },
     "appServicePlanName": {
-      "value": "yourAppServicePlanNameHere"
+      "value": "ContactDatabaseServicePlan"
     },
     "location": {
-      "value": "yourLocationHere"
+      "value": "East US"
     }
   }
 }
